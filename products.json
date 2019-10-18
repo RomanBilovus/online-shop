@@ -54,5 +54,34 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "BMW Z1",
+        "image": "bmw.png",
+        "description": "Is not the best sports car in the World",
+        "price": 24000.99
+    },
+    {
+        "id": "10",
+        "title": "BMW X1",
+        "image": "bmw-orange.png",
+        "description": "Is not the best sports car in the World",
+        "price": 24000.99
+    },
+    {
+        "id": "11",
+        "title": "BMW X1",
+        "image": "bmw-gray.jpg",
+        "description": "Is not the best sports car in the World",
+        "price": 24000.99
+    },
+    {
+        "id": "12",
+        "title": "BMW X7",
+        "image": "bmw-x7-mineral-white.png",
+        "description": "One of the best crossovers in the World",
+        "price": 34000.99
     }
+
 ]
